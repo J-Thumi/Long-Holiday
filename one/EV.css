@@ -1,0 +1,50 @@
+
+        #he{
+            margin-top: 0%;
+            background-image: url(background.svg);
+    width: 100%;
+    height: 200px;
+        }
+        #container{
+            height: 400px;
+            width: 410px;
+            align-self: center;
+            border: solid 1px black;
+            margin-top: -100px;
+            margin-left: 400px;
+            background-color: white;
+            border-radius: 5px;
+
+        }
+        #ii{
+            margin: 20px;
+        }
+        #im{
+            display: flex;
+        }
+       
+        
+        #dy{
+            margin-top: 5px;
+            margin-left: 10px;
+            display: flex;
+            height: 30px;
+            width: 370px;
+            border: solid 1px black;
+            padding: 10px;
+            border-radius: 5px;
+
+        }
+        #one{
+            margin-top: 5px;
+            margin-left: 10px; 
+        }
+     .plus{
+        height: 25px;
+        margin-right: 43%;
+       position: absolute;
+        right: 3px;
+      
+     }
+    
+    
